@@ -1,0 +1,13 @@
+RUN	videogamedb.Feeders.BasicCustomFeeder	basiccustomfeeder	1674324468582	0	3.9.0
+USER	Basic Custom Feeder test	START	1674324470090
+REQUEST		Get video game with game name : 1	1674324470147	1674324472255	OK	 
+REQUEST		Get video game with game name : 2	1674324473299	1674324473463	OK	 
+REQUEST		Get video game with game name : 3	1674324474473	1674324474823	OK	 
+REQUEST		Get video game with game name : 4	1674324475839	1674324475992	OK	 
+REQUEST		Get video game with game name : 5	1674324477009	1674324477181	OK	 
+REQUEST		Get video game with game name : 6	1674324478194	1674324478347	OK	 
+REQUEST		Get video game with game name : 7	1674324479358	1674324479512	OK	 
+REQUEST		Get video game with game name : 8	1674324480521	1674324480673	OK	 
+REQUEST		Get video game with game name : 9	1674324481683	1674324481882	OK	 
+REQUEST		Get video game with game name : 10	1674324482893	1674324483046	OK	 
+USER	Basic Custom Feeder test	END	1674324484066

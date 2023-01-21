@@ -1,0 +1,10 @@
+{
+  "simulation": "videogamedb.VideoGameFullTest",
+  "simulationId": "videogamefulltest-20230121183051258",
+  "start": 1674325858037,
+  "description": "7",
+  "scenarios": ["Video Game DB Final Script"],
+  "assertions": [
+
+  ]
+}
